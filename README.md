@@ -52,7 +52,7 @@ The app must have the following functionalities
 
 ### Quick Tips
 
-<details>
+
 <summary>Click to view</summary>
 <br>
 
@@ -64,7 +64,7 @@ import {formatDistanceToNow} from 'date-fns'
 console.log(formatDistanceToNow(new Date())) // less than a minute
 ```
 
-</details>
+
 
 ### Important Note
 
